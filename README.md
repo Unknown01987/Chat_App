@@ -16,8 +16,7 @@ You can view the deployed project  :   https://chat-app-woeq.onrender.com
 - **Live Chat:** Instant messaging 👾  
 - **Online Status:** See who's online 🚀  
 - **State Mgmt:** Global control with Zustand 👌  
-- **Error Handling:** Reliable across server & client 🐞  
-- **Effortless Deployment:** Deploy for free ⭐  
+- **Error Handling:** Reliable across server & client 🐞
 - **Scalable:** Ready to grow ⏳
 
 ## Tech Stack
