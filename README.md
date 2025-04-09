@@ -3,6 +3,12 @@
 ## Overview
 Chatty is a state-of-the-art real-time messaging platform built on the robust MERN stack with integrated Socket.io for live communication. Designed with TailwindCSS & DaisyUI for a sleek and modern UI, Chatty ensures secure, efficient, and scalable communication through JWT-based authentication, Zustand-powered global state management, and comprehensive error handling on both server and client sides. All this is ready to be deployed seamlessly at zero cost.
 
+## 🔗 Live Demo
+
+You can view the deployed project  :   (https://chat-app-woeq.onrender.com).
+
+
+
 ## Key Features
 
 - **MERN + Socket.io:** Real-time chat powered by MERN & Socket.io 🔗  
