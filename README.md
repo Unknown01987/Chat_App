@@ -5,7 +5,7 @@ Chatty is a state-of-the-art real-time messaging platform built on the robust ME
 
 ## 🔗 Live Demo
 
-You can view the deployed project  :   (https://chat-app-woeq.onrender.com).
+You can view the deployed project  :   https://chat-app-woeq.onrender.com
 
 
 
